@@ -1,28 +1,20 @@
 # Let Me Introduce Myself
 
-## 👦 About Me
-* **Name:** Sawarut Songmueang (สวรุต ทรงเมือง)
+## About Me
+* **Name:** Sawarut Songmueang
 * **Education:** Computer Engineering and Artificial Intelligence, Panyapiwat Institute of Management (PIM)
 * **Role:** Student / Developer
-
+  
 ---
 
-## 🛠️ Skills & Technologies
-* **Frontend:** HTML, JavaScript, React
-* **Backend:** .NET (C#)
-* **Database:** PostgreSQL
-* **Tools & Platforms:** GitHub, Jira, Git
-
----
-
-## 🎯 Interests & Goals
+## Interests & Goals
 * Data Science & Machine Learning (Explainable AutoML Pipeline)
 * Computer Vision (Object Detection / Banknote Classification)
 * Software Development & QA Automation
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 <a href="https://www.facebook.com/sawarut.songmueang.3" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -38,6 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 [!["SleepyX's GitHub stats"](https://github-readme-stats.vercel.app/api?username=SleepyX&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
