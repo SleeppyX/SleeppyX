@@ -17,12 +17,13 @@
 ## Connect with Me
 
 <a href="https://www.facebook.com/sawarut.songmueang.3" target="_blank">
-  <img src="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:2023_Facebook_icon.svg" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 <a href="https://www.instagram.com/mmsf_05/" target="_blank">
-  <img src="https://commons.wikimedia.org/wiki/File:Instagram_icon.png" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="mailto:sawarutreal@gmail.com">
-  <img src="https://www.vecteezy.com/png/22613021-google-mail-gmail-icon-logo-symbol" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+
 ---
